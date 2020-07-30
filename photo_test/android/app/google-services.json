@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "735533146864",
+    "firebase_url": "https://testing-58871.firebaseio.com",
+    "project_id": "testing-58871",
+    "storage_bucket": "testing-58871.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735533146864:android:fda307c4633935fedc9835",
+        "android_client_info": {
+          "package_name": "s21600558.edu.handong.photo_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735533146864-r6l01sob5ae912d1umssf3a11pcr9njv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-sB9Gs9ht71JM5w2ENnHm_bzrV6xU8_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735533146864-r6l01sob5ae912d1umssf3a11pcr9njv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
